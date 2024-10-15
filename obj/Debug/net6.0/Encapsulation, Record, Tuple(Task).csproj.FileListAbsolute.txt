@@ -1,0 +1,14 @@
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\bin\Debug\net6.0\Encapsulation, Record, Tuple(Task).exe
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\bin\Debug\net6.0\Encapsulation, Record, Tuple(Task).deps.json
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\bin\Debug\net6.0\Encapsulation, Record, Tuple(Task).runtimeconfig.json
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\bin\Debug\net6.0\Encapsulation, Record, Tuple(Task).dll
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\bin\Debug\net6.0\Encapsulation, Record, Tuple(Task).pdb
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\obj\Debug\net6.0\Encapsulation, Record, Tuple(Task).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\obj\Debug\net6.0\Encapsulation, Record, Tuple(Task).AssemblyInfoInputs.cache
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\obj\Debug\net6.0\Encapsulation, Record, Tuple(Task).AssemblyInfo.cs
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\obj\Debug\net6.0\Encapsulation, Record, Tuple(Task).csproj.CoreCompileInputs.cache
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\obj\Debug\net6.0\Encapsulation, Record, Tuple(Task).dll
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\obj\Debug\net6.0\refint\Encapsulation, Record, Tuple(Task).dll
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\obj\Debug\net6.0\Encapsulation, Record, Tuple(Task).pdb
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\obj\Debug\net6.0\Encapsulation, Record, Tuple(Task).genruntimeconfig.cache
+C:\Users\Mirdavud\source\repos\Encapsulation, Record, Tuple(Task)\Encapsulation, Record, Tuple(Task)\obj\Debug\net6.0\ref\Encapsulation, Record, Tuple(Task).dll
